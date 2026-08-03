@@ -1,1 +1,1 @@
-## Basic Python Script.
+## Basic HTML Script.
